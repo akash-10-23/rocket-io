@@ -1,6 +1,6 @@
 import { createMuiTheme, ThemeProvider} from '@material-ui/core';
 import './App.css';
-import CustomButton from './components/CustomButton';
+import NavBar from './components/NavBar';
 
 
 const theme = createMuiTheme({
@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="App">
       <ThemeProvider theme={theme}>
-        <CustomButton text="Hello Button"/>
+        <NavBar/>
       </ThemeProvider>
     </div>
   );
