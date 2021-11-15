@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rocket-io/static/css/main.a617e044.chunk.css",
+    "main.js": "/rocket-io/static/js/main.eb25ba9f.chunk.js",
+    "main.js.map": "/rocket-io/static/js/main.eb25ba9f.chunk.js.map",
+    "runtime-main.js": "/rocket-io/static/js/runtime-main.7e1c417c.js",
+    "runtime-main.js.map": "/rocket-io/static/js/runtime-main.7e1c417c.js.map",
+    "static/js/2.2f8f544c.chunk.js": "/rocket-io/static/js/2.2f8f544c.chunk.js",
+    "static/js/2.2f8f544c.chunk.js.map": "/rocket-io/static/js/2.2f8f544c.chunk.js.map",
+    "static/js/3.4227c7a1.chunk.js": "/rocket-io/static/js/3.4227c7a1.chunk.js",
+    "static/js/3.4227c7a1.chunk.js.map": "/rocket-io/static/js/3.4227c7a1.chunk.js.map",
+    "index.html": "/rocket-io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rocket-io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2f8f544c.chunk.js.LICENSE.txt": "/rocket-io/static/js/2.2f8f544c.chunk.js.LICENSE.txt",
+    "static/media/logo.7f799ddd.svg": "/rocket-io/static/media/logo.7f799ddd.svg",
+    "static/media/logoMobile.1b06bd40.svg": "/rocket-io/static/media/logoMobile.1b06bd40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e1c417c.js",
+    "static/js/2.2f8f544c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eb25ba9f.chunk.js"
+  ]
+}
